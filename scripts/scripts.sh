@@ -1,0 +1,1 @@
+Nvenv\Scripts\activate
