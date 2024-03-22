@@ -1,0 +1,7 @@
+yfinance
+firebase_admin
+streamlit
+prophet
+plotly
+streamlit_option_menu
+pandas
