@@ -85,16 +85,16 @@ Stock Predictor provides a user-friendly interface for analyzing and predicting 
 ## Screenshots
 
 ### About Page
-![About Page](stock_pred_v1/docs/page1.png)
+![screenshot](stock_pred_v1/docs/page1.png)
 
 ### Login Page
-![Login Page](stock_pred_v1/docs/page2.png)
+![screenshot](stock_pred_v1/docs/page2.png)
 
 ### Stock Infos Page
-![Stock Prediction Page](stock_pred_v1/docs/page3.png)
+![screenshot](stock_pred_v1/docs/page3.png)
 
 ### Stock Prediction Page
-![Stock Infos Page](stock_pred_v1/docs/page4.png)
+![screenshot](stock_pred_v1/docs/page4.png)
 ---
 
 ## Future Improvements
